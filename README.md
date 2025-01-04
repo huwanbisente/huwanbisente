@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![Brown and Gray Simple Personal LinkedIn Banner](https://drive.google.com/file/d/1Sw8ysahtgrsJU1bz1s2ZNuPbtGzeLZ9f/view?usp=drive_link)
+![Uploading banner.png…]()
 
 Hello, I'm JV. Data Analyst with expertise in data analysis and reporting, data modelling, machine learning, and business analysis.
 
