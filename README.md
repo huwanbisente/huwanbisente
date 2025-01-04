@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![Uploading banner.png…]()
+![banner](https://github.com/user-attachments/assets/0221d88c-fefd-4080-9427-3a0c6a2249e7)
 
 Hello, I'm JV. Data Analyst with expertise in data analysis and reporting, data modelling, machine learning, and business analysis.
 
