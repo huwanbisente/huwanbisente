@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Introducing Myself
 
-<!--
-**huwanbisente/huwanbisente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Brown and Gray Simple Personal LinkedIn Banner](https://drive.google.com/file/d/1Sw8ysahtgrsJU1bz1s2ZNuPbtGzeLZ9f/view?usp=drive_link)
 
-Here are some ideas to get you started:
+Hello, I'm JV. Data Analyst with expertise in data analysis and reporting, data modelling, machine learning, and business analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cleaning dataset on Excel/Sheets/Airtable.
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on PowerBI and Looker Studio.
+- Data analysis and reporting using Google Sheets and Excel.
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](<<In Progress>>).
+
+### 🛠️ Tools
+
+- Language: SQL, Python, DAX
+- Database: PostgreSQL, MySQL
+- Visualization: PowerBI, Looker Studio
+
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/jvchioco/)
+- [Upwork](https://www.upwork.com/freelancers/~0146bf86c88793db5f)
