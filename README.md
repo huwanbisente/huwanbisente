@@ -2,7 +2,7 @@
 
 ![banner](https://github.com/user-attachments/assets/0221d88c-fefd-4080-9427-3a0c6a2249e7)
 
-Hello, I'm **JV**. I am a **Systems Developer & Analytics Engineer** specializing in bridging the gap between raw data and functional business tools. I don't just analyze data—I build the ecosystems that power it.
+Hello, I'm **JV**. I am a **Systems Developer & Analytics Engineer** specializing in bridging the gap between raw data and functional business tools. I don't just analyze data, I build the ecosystems that power it.
 
 ### 🚀 Core Capabilities
 * **Full-Stack Internal Apps**: Developing custom web applications and dashboards using Next.js, FastAPI, and Google Apps Script.
