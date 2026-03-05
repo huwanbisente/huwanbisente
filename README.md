@@ -18,7 +18,7 @@ Hello, I'm **JV**. I am a **Systems Developer & Analytics Engineer** specializin
 | Project | Description | Tech Highlights |
 | :--- | :--- | :--- |
 | **[KleanerZ](https://github.com/yourlink)** | A gig-economy "Claim-and-Go" platform for residential cleaning services. | Next.js, FastAPI, JWT Auth, SQLite |
-| **[Pokémon MezaHub](https://github.com/yourlink)** | A PWA companion tool featuring a National Dex and Battle Weakness Analyzer. | Vanilla JS, PWA, Tailwind CSS |
+| **[Pokémon MezaHub](https://github.com/yourlink)** | A PWA companion tool featuring a National Dex and Battle Weakness Analyzer. | Vanilla JS, PWA, Tailwind CSS, OAuth |
 | **[Aether-Dash](https://github.com/yourlink)** | A "Cyber-Terminal" command center for real-time monitoring and visualization. | Proxmox, Python API, Custom UI |
 | **[Project AWRA V2](https://github.com/yourlink)** | High-performance web dashboard for rapid operational reporting. | Google Apps Script, Web App UI |
 
